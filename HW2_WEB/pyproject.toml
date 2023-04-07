@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "hw2"
+version = "0.1.0"
+description = ""
+authors = ["Yana Yakovlieva  <yanayakovleva362@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+colorama = "^0.4.6"
+numexpr = "^2.8.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

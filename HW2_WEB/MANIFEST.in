@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+include abvad\logs.txt
+include abvad\ab_save.bin
+include abvad\nb_save.bin
