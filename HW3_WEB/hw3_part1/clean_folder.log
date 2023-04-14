@@ -1,0 +1,30 @@
+2023-04-14 12:54:25,013 [INFO] - __main__ -     fold_create:59 - Folder with name '/Users/yanayakovlieva/Desktop/documents/photo/images/images' was not exist and was created
+2023-04-14 12:54:25,014 [INFO] - __main__ -       normalize:133 - File name 'pexels_dorota_semla_8911867.jpg' was normalized
+2023-04-14 12:54:25,014 [INFO] - __main__ -     fold_create:59 - Folder with name '/Users/yanayakovlieva/Desktop/documents/photo/images/other' was not exist and was created
+2023-04-14 12:54:25,015 [INFO] - __main__ -       normalize:133 - File name '.DS_Store' was normalized
+2023-04-14 12:54:25,015 [INFO] - __main__ -     folder_sort:67 - File with name 'pexels_dorota_semla_8911867.jpg' was removed to /Users/yanayakovlieva/Desktop/documents/photo/images/images
+2023-04-14 12:54:25,016 [INFO] - __main__ -       normalize:133 - File name 'pexels_nicole_avagliano_2236713.jpg' was normalized
+2023-04-14 12:54:25,016 [INFO] - __main__ -     folder_sort:67 - File with name '.DS_Store' was removed to /Users/yanayakovlieva/Desktop/documents/photo/images/other
+2023-04-14 12:54:25,016 [INFO] - __main__ -       normalize:133 - File name 'pexels_simon_berger_1323550.jpg' was normalized
+2023-04-14 12:54:25,017 [INFO] - __main__ -       normalize:133 - File name '166129_california_streaming_apple_event_wallpaper_without_logo_1920x1080.jpg' was normalized
+2023-04-14 12:54:25,017 [INFO] - __main__ -     folder_sort:67 - File with name 'pexels_simon_berger_1323550.jpg' was removed to /Users/yanayakovlieva/Desktop/documents/photo/images/images
+2023-04-14 12:54:25,017 [INFO] - __main__ -     folder_sort:67 - File with name 'pexels_nicole_avagliano_2236713.jpg' was removed to /Users/yanayakovlieva/Desktop/documents/photo/images/images
+2023-04-14 12:54:25,017 [INFO] - __main__ -       normalize:133 - File name 'pexels_louis_2101187.jpg' was normalized
+2023-04-14 12:54:25,017 [INFO] - __main__ -     folder_sort:67 - File with name '166129_california_streaming_apple_event_wallpaper_without_logo_1920x1080.jpg' was removed to /Users/yanayakovlieva/Desktop/documents/photo/images/images
+2023-04-14 12:54:25,018 [INFO] - __main__ -     folder_sort:67 - File with name 'pexels_louis_2101187.jpg' was removed to /Users/yanayakovlieva/Desktop/documents/photo/images/images
+2023-04-14 12:56:03,749 [INFO] - __main__ -       normalize:133 - File name 'pexels_dorota_semla_8911867.jpg' was normalized
+2023-04-14 12:56:03,750 [INFO] - __main__ -     fold_create:59 - Folder with name '/Users/yanayakovlieva/Desktop/documents/photo/other' was not exist and was created
+2023-04-14 12:56:03,750 [INFO] - __main__ -     folder_sort:67 - File with name 'pexels_dorota_semla_8911867.jpg' was removed to /Users/yanayakovlieva/Desktop/documents/photo/images
+2023-04-14 12:56:03,750 [INFO] - __main__ -       normalize:133 - File name '.DS_Store' was normalized
+2023-04-14 12:56:03,751 [INFO] - __main__ -       normalize:133 - File name 'pexels_nicole_avagliano_2236713.jpg' was normalized
+2023-04-14 12:56:03,751 [INFO] - __main__ -     folder_sort:67 - File with name '.DS_Store' was removed to /Users/yanayakovlieva/Desktop/documents/photo/other
+2023-04-14 12:56:03,751 [INFO] - __main__ -     folder_sort:67 - File with name 'pexels_nicole_avagliano_2236713.jpg' was removed to /Users/yanayakovlieva/Desktop/documents/photo/images
+2023-04-14 12:56:03,752 [INFO] - __main__ -     fold_create:59 - Folder with name '/Users/yanayakovlieva/Desktop/documents/photo/documents' was not exist and was created
+2023-04-14 12:56:03,752 [INFO] - __main__ -       normalize:133 - File name 'Essential_Grammar_in_Use___2nd_edition.pdf' was normalized
+2023-04-14 12:56:03,752 [INFO] - __main__ -       normalize:133 - File name 'pexels_simon_berger_1323550.jpg' was normalized
+2023-04-14 12:56:03,752 [INFO] - __main__ -     folder_sort:67 - File with name 'Essential_Grammar_in_Use___2nd_edition.pdf' was removed to /Users/yanayakovlieva/Desktop/documents/photo/documents
+2023-04-14 12:56:03,752 [INFO] - __main__ -       normalize:133 - File name '166129_california_streaming_apple_event_wallpaper_without_logo_1920x1080.jpg' was normalized
+2023-04-14 12:56:03,753 [INFO] - __main__ -     folder_sort:67 - File with name 'pexels_simon_berger_1323550.jpg' was removed to /Users/yanayakovlieva/Desktop/documents/photo/images
+2023-04-14 12:56:03,753 [INFO] - __main__ -       normalize:133 - File name 'pexels_louis_2101187.jpg' was normalized
+2023-04-14 12:56:03,753 [INFO] - __main__ -     folder_sort:67 - File with name '166129_california_streaming_apple_event_wallpaper_without_logo_1920x1080.jpg' was removed to /Users/yanayakovlieva/Desktop/documents/photo/images
+2023-04-14 12:56:03,754 [INFO] - __main__ -     folder_sort:67 - File with name 'pexels_louis_2101187.jpg' was removed to /Users/yanayakovlieva/Desktop/documents/photo/images
