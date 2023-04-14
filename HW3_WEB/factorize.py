@@ -37,6 +37,3 @@ if __name__ == '__main__':
     print(f"Execution time multi_facrorize(): {time()- start1}")
     print(f"CPU count: {cpu_count()}")
 
-#Execution time factorize(): 0.2950429916381836 
-#Execution time multi_facrorize(): 0.3877997398376465
-#CPU count: 8
