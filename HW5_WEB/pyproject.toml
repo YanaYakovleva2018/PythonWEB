@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "hw5-web"
+version = "0.1.0"
+description = ""
+authors = ["Yana Yakovlieva  <yanayakovleva362@gmail.com>"]
+readme = "README.md"
+packages = [{include = "hw5_web"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+asyncio = "^3.4.3"
+logging = "^0.4.9.6"
+DateTime = "^5.1"
+names = "^0.3.0"
+websockets = "^11.0.2"
+aiopath = "^0.6.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
