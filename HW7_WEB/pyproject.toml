@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "home-work7"
+version = "0.1.0"
+description = ""
+authors = ["Yana Yakovlieva  <yanayakovleva362@gmail.com>"]
+readme = "README.md"
+packages = [{include = "home_work7"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+alembic = "^1.10.4"
+sqlalchemy = "^2.0.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
