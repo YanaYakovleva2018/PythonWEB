@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hw10-web"
+version = "0.1.0"
+description = ""
+authors = ["Yana Yakovlieva  <yanayakovleva362@gmail.com>"]
+readme = "README.md"
+packages = [{include = "hw10_web"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Django = "^4.2.2"
+pymongo = "^4.3.3"
+psycopg2 = "^2.9.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
