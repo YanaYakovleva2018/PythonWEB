@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "restapi"
+version = "0.1.0"
+description = ""
+authors = ["Yana Yakovlieva  <yanayakovleva362@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+uvicorn = "^0.22.0"
+sqlalchemy = "^2.0.18"
+libgravatar = "^1.0.4"
+fastapi = "^0.99.1"
+fastapi-mail = "^1.3.1"
+jose = "^1.0.0"
+
+
+[tool.poetry.group.dev.dependencies]
+sphinx = "^7.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
